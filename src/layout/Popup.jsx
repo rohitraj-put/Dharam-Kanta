@@ -8,10 +8,13 @@ function Popup({ isOpen, onClose, onSave }) {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
       <div className="bg-white p-6 rounded shadow-lg w-[50%] max-md:w-[90%]">
-        <div className="flex justify-between px-4 items-center py-4">
-          <h2 className="text-2xl">Add New Book</h2>
-          <Button onClick={onClose} className=" bg-gray-100  hover:bg-gray-300">
-            <MdClose className="text-black text-2xl" />
+        <div className="flex justify-between px-2 items-center py-2">
+          <h2 className="text-2xl">Add New Customer</h2>
+          <Button
+            onClick={onClose}
+            className="text-blue-500 bg-gray-100 hover:bg-gray-200 shadow-none"
+          >
+            <MdClose className=" text-2xl" />
           </Button>
         </div>
         <div className="my-4">

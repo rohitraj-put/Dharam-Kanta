@@ -63,9 +63,9 @@ export function Dashboard() {
                         d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
                       />
                     </svg>
-                    <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
+                    {/* <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
                       <span class="flex items-center">30%</span>
-                    </div>
+                    </div> */}
                   </div>
                   <div class="ml-2 w-full flex-1">
                     <div>
@@ -98,9 +98,9 @@ export function Dashboard() {
                         d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
                       />
                     </svg>
-                    <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
+                    {/* <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
                       <span class="flex items-center">30%</span>
-                    </div>
+                    </div> */}
                   </div>
                   <div class="ml-2 w-full flex-1">
                     <div>
@@ -133,9 +133,9 @@ export function Dashboard() {
                         d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
                       />
                     </svg>
-                    <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
+                    {/* <div class="bg-rose-400 rounded-full h-6 px-2 flex justify-items-center text-white font-semibold text-sm">
                       <span class="flex items-center">30%</span>
-                    </div>
+                    </div> */}
                   </div>
                   <div class="ml-2 w-full flex-1">
                     <div>
